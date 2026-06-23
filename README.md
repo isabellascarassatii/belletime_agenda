@@ -1,5 +1,7 @@
 # 💇‍♀️ Belle Time - Sistema de Gestão
 
+⚠️ Aviso: Este repositório contém a Versão 1 (Legada) do projeto Belle Time, construída como aplicação Desktop. O projeto evoluiu para uma arquitetura Web/Mobile First. [Clique aqui para ver a versão atualizada e o protótipo UX/UI](https://github.com/isabellascarassatii/belletime-website).
+
 Sistema de agendamento e gestão para salões de beleza, desenvolvido como Projeto Integrador do curso de ADS.
 
 ## 🛠️ Tecnologias
